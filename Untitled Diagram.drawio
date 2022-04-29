@@ -1,23 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T15:24:08.395Z" agent="5.0 (X11)" etag="DvmVlOYrRa315LaRF-R-" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T17:14:40.684Z" agent="5.0 (X11)" etag="1ve_iwEWQvRchOE_yVn_" version="16.5.5" type="github">
   <diagram id="y3ov4KEdgeqS82IrDY-E" name="Page-1">
-    <mxGraphModel dx="1422" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1JpoMMPalMAsRspwO1MH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="1JpoMMPalMAsRspwO1MH-3" value="国内市场消费" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JpoMMPalMAsRspwO1MH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="1JpoMMPalMAsRspwO1MH-4" value="投资" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JpoMMPalMAsRspwO1MH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="1JpoMMPalMAsRspwO1MH-5" value="政府消费" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JpoMMPalMAsRspwO1MH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="xp8aon5oBIo_WXoEedsB-2" value="生产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JpoMMPalMAsRspwO1MH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="xp8aon5oBIo_WXoEedsB-3" value="利润" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="540" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8aon5oBIo_WXoEedsB-5" value="地方税收" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8aon5oBIo_WXoEedsB-7" value="中央税收" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="600" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8aon5oBIo_WXoEedsB-9" value="出口" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;" vertex="1" parent="1">
+          <mxGeometry x="710" y="200" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8aon5oBIo_WXoEedsB-10" value="投机市场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8aon5oBIo_WXoEedsB-11" value="央行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8aon5oBIo_WXoEedsB-12" value="银行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8aon5oBIo_WXoEedsB-13" value="就业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xp8aon5oBIo_WXoEedsB-14" value="外汇储备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
