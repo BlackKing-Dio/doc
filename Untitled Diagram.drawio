@@ -1,29 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T19:43:19.702Z" agent="5.0 (X11)" etag="DJWV7Kvay-6Y5IBv0ZAe" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T05:04:10.441Z" agent="5.0 (X11)" etag="OC3-dRzlWJTBRmQe50A0" version="17.5.0" type="github">
   <diagram id="y3ov4KEdgeqS82IrDY-E" name="Page-1">
-    <mxGraphModel dx="2426" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="1JpoMMPalMAsRspwO1MH-3" target="xp8aon5oBIo_WXoEedsB-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="330" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="1JpoMMPalMAsRspwO1MH-3" target="xp8aon5oBIo_WXoEedsB-3">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="1JpoMMPalMAsRspwO1MH-3" target="xp8aon5oBIo_WXoEedsB-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="605" />
-              <mxPoint x="430" y="730" />
+              <mxPoint x="430" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="1JpoMMPalMAsRspwO1MH-3" target="xp8aon5oBIo_WXoEedsB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1JpoMMPalMAsRspwO1MH-3" value="国内市场消费" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" parent="1" source="1JpoMMPalMAsRspwO1MH-4" target="xp8aon5oBIo_WXoEedsB-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="1JpoMMPalMAsRspwO1MH-4" target="xp8aon5oBIo_WXoEedsB-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -34,9 +27,6 @@
         <mxCell id="xp8aon5oBIo_WXoEedsB-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1JpoMMPalMAsRspwO1MH-5" target="xp8aon5oBIo_WXoEedsB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1JpoMMPalMAsRspwO1MH-5" value="地方政府消费" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1050" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="xp8aon5oBIo_WXoEedsB-2" target="1JpoMMPalMAsRspwO1MH-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -46,23 +36,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=75;entryDy=35;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-2" target="xp8aon5oBIo_WXoEedsB-9">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=75;entryDy=35;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" parent="1" source="xp8aon5oBIo_WXoEedsB-2" target="xp8aon5oBIo_WXoEedsB-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1210" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=7;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-2" target="xp8aon5oBIo_WXoEedsB-13">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=7;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="xp8aon5oBIo_WXoEedsB-2" target="xp8aon5oBIo_WXoEedsB-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-2" value="生产" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="1" vertex="1">
+        <mxCell id="xp8aon5oBIo_WXoEedsB-2" value="生产" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=6;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1180" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" parent="1" source="xp8aon5oBIo_WXoEedsB-3" target="xp8aon5oBIo_WXoEedsB-39" edge="1">
+        <mxCell id="xp8aon5oBIo_WXoEedsB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" parent="1" source="xp8aon5oBIo_WXoEedsB-3" target="xp8aon5oBIo_WXoEedsB-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1400" y="730" />
+              <mxPoint x="1400" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -70,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-3" value="利润" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="690" width="170" height="80" as="geometry" />
+          <mxGeometry x="990" y="680" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xp8aon5oBIo_WXoEedsB-7" target="xp8aon5oBIo_WXoEedsB-57" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -83,13 +73,20 @@
         <mxCell id="xp8aon5oBIo_WXoEedsB-7" value="中央财政" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="490" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=50;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="xp8aon5oBIo_WXoEedsB-9" target="xp8aon5oBIo_WXoEedsB-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xp8aon5oBIo_WXoEedsB-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=50;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="xp8aon5oBIo_WXoEedsB-9" target="xp8aon5oBIo_WXoEedsB-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="160" />
+              <mxPoint x="2030" y="160" />
+              <mxPoint x="2030" y="660" />
+              <mxPoint x="1840" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-9" value="出口" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=6;" parent="1" vertex="1">
           <mxGeometry x="830" y="180" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-10" target="xp8aon5oBIo_WXoEedsB-20">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="xp8aon5oBIo_WXoEedsB-10" target="xp8aon5oBIo_WXoEedsB-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1480" y="835" />
@@ -97,32 +94,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-10" target="xp8aon5oBIo_WXoEedsB-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-10" value="投机市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="726" y="780" width="200" height="80" as="geometry" />
+          <mxGeometry x="726" y="770" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="1" source="xp8aon5oBIo_WXoEedsB-11" target="xp8aon5oBIo_WXoEedsB-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-11" target="xp8aon5oBIo_WXoEedsB-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1990" y="1090" />
-              <mxPoint x="845" y="1090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-11" value="央行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1930" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1930" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="1" source="xp8aon5oBIo_WXoEedsB-12" target="1JpoMMPalMAsRspwO1MH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" parent="1" source="xp8aon5oBIo_WXoEedsB-12" target="xp8aon5oBIo_WXoEedsB-10" edge="1">
+        <mxCell id="xp8aon5oBIo_WXoEedsB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=6;" parent="1" source="xp8aon5oBIo_WXoEedsB-12" target="xp8aon5oBIo_WXoEedsB-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1410" y="870" />
-              <mxPoint x="1410" y="930" />
-              <mxPoint x="825" y="930" />
+              <mxPoint x="1410" y="990" />
+              <mxPoint x="825" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,8 +122,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1360" y="855" />
-              <mxPoint x="1360" y="950" />
-              <mxPoint x="500" y="950" />
+              <mxPoint x="1360" y="1010" />
+              <mxPoint x="500" y="1010" />
               <mxPoint x="500" y="605" />
             </Array>
           </mxGeometry>
@@ -139,37 +131,31 @@
         <mxCell id="xp8aon5oBIo_WXoEedsB-12" value="银行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1500" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-13" target="xp8aon5oBIo_WXoEedsB-47">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="xp8aon5oBIo_WXoEedsB-13" target="xp8aon5oBIo_WXoEedsB-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-13" value="就业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1280" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xp8aon5oBIo_WXoEedsB-14" target="xp8aon5oBIo_WXoEedsB-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xp8aon5oBIo_WXoEedsB-14" target="xp8aon5oBIo_WXoEedsB-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-14" target="xp8aon5oBIo_WXoEedsB-39">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="xp8aon5oBIo_WXoEedsB-14" target="xp8aon5oBIo_WXoEedsB-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-14" value="外汇储备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="1750" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-16" target="xp8aon5oBIo_WXoEedsB-57">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="xp8aon5oBIo_WXoEedsB-16" target="xp8aon5oBIo_WXoEedsB-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="1095" />
+              <mxPoint x="450" y="1083" />
               <mxPoint x="450" y="130" />
               <mxPoint x="2250" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-16" value="地方财政" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="1060" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-17" value="土地财政" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xp8aon5oBIo_WXoEedsB-17" value="土地财政" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="430" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-19" value="关税" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -178,22 +164,26 @@
         <mxCell id="xp8aon5oBIo_WXoEedsB-20" value="国内税收" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1650" y="490" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=75;exitDy=35;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xp8aon5oBIo_WXoEedsB-22" target="1JpoMMPalMAsRspwO1MH-3" edge="1">
+        <mxCell id="xp8aon5oBIo_WXoEedsB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=75;exitDy=35;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=6;" parent="1" source="xp8aon5oBIo_WXoEedsB-22" target="1JpoMMPalMAsRspwO1MH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xp8aon5oBIo_WXoEedsB-22" target="xp8aon5oBIo_WXoEedsB-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="280" />
-              <mxPoint x="1885" y="280" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-22" target="xp8aon5oBIo_WXoEedsB-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-22" value="进口" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;" parent="1" vertex="1">
+        <mxCell id="xp8aon5oBIo_WXoEedsB-22" value="进口" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=6;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="830" y="310" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" parent="1" source="xp8aon5oBIo_WXoEedsB-39" target="xp8aon5oBIo_WXoEedsB-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-39" target="xp8aon5oBIo_WXoEedsB-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="665" />
+              <mxPoint x="1320" y="970" />
+              <mxPoint x="876" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-39" value="资本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="620" width="120" height="60" as="geometry" />
@@ -206,10 +196,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="xp8aon5oBIo_WXoEedsB-47" target="1JpoMMPalMAsRspwO1MH-3">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="xp8aon5oBIo_WXoEedsB-47" target="1JpoMMPalMAsRspwO1MH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-47" value="货币流通量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xp8aon5oBIo_WXoEedsB-47" value="货币流通量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=6;" parent="1" vertex="1">
           <mxGeometry x="766" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-57" value="国企" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -240,14 +230,14 @@
         <mxCell id="xp8aon5oBIo_WXoEedsB-61" value="成本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-72" value="股市" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="660" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="xp8aon5oBIo_WXoEedsB-72" value="股市/期市" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="660" y="740" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-73" value="房市" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="860" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="740" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-74" value="汇市" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="660" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="xp8aon5oBIo_WXoEedsB-74" value="汇市" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="660" y="890" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xp8aon5oBIo_WXoEedsB-77" value="就业" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2260" y="460" width="120" height="60" as="geometry" />
@@ -258,44 +248,66 @@
         <mxCell id="xp8aon5oBIo_WXoEedsB-78" value="生产" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2080" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-80" value="债市" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="860" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="xp8aon5oBIo_WXoEedsB-80" value="债市" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="900" y="890" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-18" value="美国大萧条 1929 欧洲复苏 没有及时调整产业结构导致重工业生产过剩，失业率暴增" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-18" value="美国大萧条 1929 欧洲复苏 没有及时调整产业结构导致重工业生产过剩，失业率暴增" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="540" y="190" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="VMast3j_ZkO6KQPAA_pW-19" target="VMast3j_ZkO6KQPAA_pW-29">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-19" value="次贷危机2008 房屋信贷大面积违约 放任杠杆）&lt;br&gt;&lt;div align=&quot;left&quot;&gt;2014 A股牛市起点 《新国九条》发布&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="1042.5" width="300" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-23" value="日本泡沫1991 美元加息 日本为防止国内资本外逃 在泡沫高位只能跟着凶猛加息" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="910" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="VMast3j_ZkO6KQPAA_pW-24" target="xp8aon5oBIo_WXoEedsB-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2090" y="870" />
+              <mxPoint x="2090" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-24" value="美联储" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2260" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="VMast3j_ZkO6KQPAA_pW-26" target="xp8aon5oBIo_WXoEedsB-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-19" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;日本泡沫1991 外资炒作/放任日元升值 导致制造业外逃&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;亚洲金融危机1998 外资狙击东南亚 放任外资炒作/出逃&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;次贷危机2008 房屋信贷大面积违约 放任杠杆&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2016 外资狙击人民币汇率和股市（失败）&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1110" width="300" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-23" value="日本泡沫1991 美元加息 日本为防止国内资本外逃 在泡沫高位只能跟着凶猛加息" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="1070" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="VMast3j_ZkO6KQPAA_pW-24" target="xp8aon5oBIo_WXoEedsB-11">
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.37;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="VMast3j_ZkO6KQPAA_pW-26" target="xp8aon5oBIo_WXoEedsB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-24" value="美联储" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-26" value="国际资本" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1930" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="VMast3j_ZkO6KQPAA_pW-26" target="xp8aon5oBIo_WXoEedsB-11">
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-28" value="希腊债务危机2009 希腊在2000年以后向高盛等国际资本大量借债 整个欧元区为其买单" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2000" y="1070" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.62;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="VMast3j_ZkO6KQPAA_pW-29" target="xp8aon5oBIo_WXoEedsB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-26" value="国际资本" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="VMast3j_ZkO6KQPAA_pW-29" value="&lt;div&gt;市场体制/监管&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-28" value="希腊债务危机2009 希腊在2000年以后向高盛等国际资本大量借债 整个欧元区为其买单" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="890" width="220" height="50" as="geometry" />
+        <mxCell id="xp8aon5oBIo_WXoEedsB-52" value="汇率" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="635" y="920" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="VMast3j_ZkO6KQPAA_pW-29" target="xp8aon5oBIo_WXoEedsB-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-7" value="亚洲金融危机1998 外资狙击东南亚 放任外资炒作/出逃&lt;div align=&quot;left&quot;&gt;2016 外资狙击人民币汇率和股市（失败）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1132.5" width="300" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="VMast3j_ZkO6KQPAA_pW-29" value="市场管制" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1115" width="120" height="60" as="geometry" />
+        <mxCell id="1JpoMMPalMAsRspwO1MH-5" value="地方政府消费" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp8aon5oBIo_WXoEedsB-52" value="汇率" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="860" width="100" height="60" as="geometry" />
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=6;entryX=0.21;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="Ws9Tl3b74Hi1KMxa_LbX-17" target="xp8aon5oBIo_WXoEedsB-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-17" value="&lt;div&gt;全球股市（美股）&lt;/div&gt;&lt;div&gt;情绪导向因素&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws9Tl3b74Hi1KMxa_LbX-19" value="1987美股闪崩&amp;nbsp; 波及全世界股市" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1250" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
